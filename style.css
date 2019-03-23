@@ -1,0 +1,30 @@
+.info-contacto {
+	margin: 10px 0;
+}
+
+.info-contacto p {
+	display: inline-grid;
+	margin-right: 10px;
+}
+
+a.link-blanco {
+	color: #fff;
+	text-decoration: underline;
+}
+
+a.link-blanco:hover {
+	color: #fff;
+}
+
+.grupo-experiencias {
+	display: block;
+	
+}
+
+.experiencia {
+	background-color: rgba(204,229,255,0.5);
+	margin-bottom: 20px;
+	padding: 10px 20px;
+	border: 1px solid #fff;
+	border-radius: 10px;
+}
